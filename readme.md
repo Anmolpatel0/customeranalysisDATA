@@ -140,4 +140,4 @@ Anmol Patel
 
 ## License
 
-MIT License
+ none 
